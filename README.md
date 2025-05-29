@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/kornelyte12/teamwork
 
-Design: ![alt text](./teamwork.gif)
+Design: ![alt text](https://html.fleexstudio.com/current/index.html)
 
 ## 🎯 Project features/goals
 
