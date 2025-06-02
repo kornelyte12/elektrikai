@@ -11,7 +11,7 @@ export function services() {
                     <img src="./img/services/${service.img}" alt="${service.imgAlt}">
                 </div>
                 <div class="service-content">
-                    <div class="service-number">0${i + 1}</div>
+                    <div class="service-number">${i + 1}</div>
                     <h3 class="service-title">${service.title}</h3>
                     <p class="service-desc">${service.description}</p>
                     <a class="service-link" href="${service.link}">
