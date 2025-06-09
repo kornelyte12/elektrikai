@@ -6,14 +6,14 @@
 @import '../vendors/font-awesome.min.css';
 
 /* components */
+@import '../components/header.css';
 @import '../components/hero.css';
 @import '../components/testimonials.css';
 @import '../components/contact-us.css';
 @import '../components/subscribe.css';
 @import '../components/service-card.css';
 @import '../components/how-it-works.css';
-@import '../components/header.css';
-
+@import '../components/portfolio-gallery.css';
 
 /* CUSTOM STYLE FOR THIS PAGE GOES BELOW THIS COMMENT */
 
